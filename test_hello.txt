@@ -1,1 +1,1 @@
-whatthefuck
+Hello GitHub from Python 👋
